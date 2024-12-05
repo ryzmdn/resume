@@ -22,7 +22,7 @@ The project serves as a personal online Resume that can be hosted on any web ser
 
 ## Screenshot
 
-![preview](https://github.com/user-attachments/assets/13d7c439-f5d3-479e-8857-15045815e1ce)
+![preview](https://github.com/user-attachments/assets/0686564c-9aa4-4daa-823c-f565dbc0b0b2)
 
 ## Installation
 
